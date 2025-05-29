@@ -8,3 +8,38 @@
     color: black;
     text-decoration: none;
 }
+
+header {
+    width: 67.5%;
+
+    margin: 30px auto;
+
+    font-size: 18px;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-top-info {
+    height: 69px;
+}
+
+.header-top-info p {
+    margin-top: 9px;
+    color: rgba(0, 0, 0, 0.545);
+}
+
+.header-top-info a {
+    position: absolute;
+    margin-top: 15px;
+}
+
+nav a {
+    margin-right: 20px;
+
+    font-weight: 700;
+}
+
+nav a:last-child {
+    margin-right: 0;
+}
