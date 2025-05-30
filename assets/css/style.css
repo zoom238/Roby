@@ -127,3 +127,42 @@ main {
     color: white;
     background-color: black;
 }
+
+.container {
+    width: 83vw;
+    margin: 0 auto;
+}
+
+.partners-and-award-block {
+    height: 100vh;
+}
+
+.partners-block {
+    padding-top: 14vh;
+}
+
+.partners-block h2 {
+    font-size: 27px;
+    font-weight: 400;
+    line-height: 32.4px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.partner-part {
+    font-size: 22px;
+    letter-spacing: 1px;
+}
+
+.partners-stand {
+    width: 62.5vw;
+    margin: 0 auto;
+    padding-top: 5vh;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.partners-stand img {
+    width: 9vw;
+}
